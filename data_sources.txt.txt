@@ -1,0 +1,46 @@
+SCAC PAPER: DATA SOURCES
+========================
+
+I. MQL5 Compilation Error Codes
+--------------------------------
+error 123: syntax error (missing colon)
+error 321: parameter EnumToString() must be single enum
+error 140: expression expected
+error 411: invalid pointer operation
+
+Source: MQL5 Official Documentation
+Reliability: 100% authentic
+Verification: https://docs.mql5.com/
+
+II. Error Distribution Percentages
+----------------------------------
+Data in Table 1 (45%, 30%, 15%, 10%) are simulation data.
+Purpose: Demonstrate Theorem 3 (Hallucination Entropy Increase) 
+         and Theorem 11 (Hierarchical Reward Mechanism)
+
+III. Compilation Pass Rates
+---------------------------
+Data in Table 2 (15%, 45%, 78%, 92%) are simulation data.
+Purpose: Verify Theorem 9 (Exponential Convergence)
+
+IV. Sharpe Ratios
+-----------------
+Data in Table 2 (0.3, 0.7, 1.2, 1.5) are simulation data.
+Purpose: Illustrate SCAC performance improvement trend
+
+V. For Real Data Collection
+---------------------------
+To obtain authentic MQL5 compilation statistics:
+1. Randomly generate 1000 MQL5 programs
+2. Batch compile using MT5 compiler
+3. Count frequency of each error type
+
+VI. Paper Citation Note
+-----------------------
+Suggested footnote in paper:
+"Data in Tables 1-2 are simulation data for theoretical validation.
+For actual MQL5 compilation statistics, refer to [specific literature or experiment]."
+
+---
+Document created: February 24, 2026
+Author: Bingqin Wang
